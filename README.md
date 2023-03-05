@@ -14,8 +14,6 @@ The team:
 <a href="https://github.com/amir2679">Amir Gombo</a>
 </p>
 
-<p>
-The team and I followed the original flow features and UI (pixel to pixel) and implemented them using, HTML, Sass, JS.</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -39,6 +37,8 @@ Uploaded and built to production on github and deployed using render.com.
 </p>
 
 <p>Enjoy the following scenes from the app and its responsive views:</p>
+
+<video src='https://www.youtube.com/watch?v=O_WMoFP7vOg' width=180/>
 
 <p float="center">
 <img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1673554718/home_wt69gp.png"/>
