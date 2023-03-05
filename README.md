@@ -38,7 +38,8 @@ Uploaded and built to production on github and deployed using render.com.
 
 <p>Enjoy the following scenes from the app and its responsive views:</p>
 
-[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg]([https://www.youtube.com/watch?v=O_WMoFP7vOg](https://www.youtube.com/watch?v=O_WMoFP7vOg))" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=O_WMoFP7vOg) "Now in Android: 55")
+<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://www.youtube.com/watch?v=O_WMoFP7vOg)" width="50%">
+
 <p float="center">
 <img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1673554718/home_wt69gp.png"/>
 <img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1673554718/boards_zur9jn.png"/>
