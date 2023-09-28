@@ -1,4 +1,4 @@
-﻿<p>Deployed at: https://kannban.onrender.com and at: https://kannban-production.up.railway.app/#/</p>
+﻿<p>Deployed at: https://kannban.onrender.com</p>
 
 <h1>Kannban is here!</h1>
 <h2>Managing your team work and projects has never been easier!</h2>
